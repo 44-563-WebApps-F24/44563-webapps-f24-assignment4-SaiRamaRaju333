@@ -38,3 +38,21 @@ tr:nth-child(even) {
     background-color: #ea7e7e7a;
   }
   
+.oedipus:hover{
+    text-shadow: 3px 3px 6px rgb(94, 224, 213);
+    border: 2px solid red;
+    border-radius: 4px;
+    padding: 4px;
+}
+.messenger:hover{
+    text-shadow: 3px 3px 6px blue;
+    border: 2px solid rgb(15, 15, 235);
+    border-radius: 4px;
+    padding: 4px;
+}
+.jocasta:hover{
+    text-shadow: 3px 3px 6px black;
+    border: 2px solid rgb(229, 51, 229);
+    border-radius: 4px;
+    padding: 4px;
+}
